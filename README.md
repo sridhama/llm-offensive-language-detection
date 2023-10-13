@@ -1,5 +1,7 @@
 # Per-language pre-trained BERT models for hate speech detection
 
+[Full paper](https://drive.google.com/file/d/1YmO5iou8OHDZ_6O0cciS_lIA8spmkg94/view?usp=sharing)
+
 ## **Requirements:**
 
 ```
