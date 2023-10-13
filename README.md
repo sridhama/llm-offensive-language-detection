@@ -1,6 +1,10 @@
-# Per-language pre-trained BERT models for hate speech detection
+# Multi-Lingual Hate Speech Detection
+
+We leveraged the OLID multi-lingual hate speech dataset to explore different transformer models with the aim of determining the most effective method for hate speech detection across multiple languages. In our approach, we use a multi-lingual transformer model known as XLM-RoBERTa, as well as specialized BERT models pretrained for individual languages.
 
 [Full paper](https://drive.google.com/file/d/1YmO5iou8OHDZ_6O0cciS_lIA8spmkg94/view?usp=sharing)
+
+## Per-language pre-trained BERT models for hate speech detection
 
 ## **Requirements:**
 
